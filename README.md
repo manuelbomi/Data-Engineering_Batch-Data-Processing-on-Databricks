@@ -75,6 +75,7 @@ Consider a scenario where a retail company receives daily sales data in CSV file
 #### Scheduling the Batch Job.
 ---
 This entire process would typically be encapsulated within a Databricks notebook or job and scheduled to run daily using Databricks Jobs, ensuring the batch processing occurs automatically at a predefined interval.
+---
 
 Author's Background
 
